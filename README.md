@@ -1,4 +1,4 @@
-### <h1> Hello,I am Jyoti </h1> 👋
+## Hello,I am Jyoti  👋
 
 
 **Jyotikumari0970/Jyotikumari0970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
